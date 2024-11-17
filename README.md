@@ -1,6 +1,6 @@
 # Blinkit_Analysis
 
-#STEPS IN PROJECT
+# STEPS IN PROJECT
 •	Requirement Gathering/Business Requirements
 •	Data Walkthrough
 •	Data Connection
